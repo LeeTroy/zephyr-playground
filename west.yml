@@ -9,5 +9,3 @@ manifest:
   projects:
     - name: zephyr
       revision: HEAD
-      submodules:
-        - mcuboot
